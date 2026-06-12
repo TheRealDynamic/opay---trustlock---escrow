@@ -1,0 +1,16 @@
+opay-escrow-mvp/
+│
+├── index.html          (Login page)
+├── dashboard.html      (User dashboard)
+├── escrow.html         (Transaction page)
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── app.js
+│
+├── backend/
+│   └── server.js (optional Node.js backend)
+│
+└── README.md
